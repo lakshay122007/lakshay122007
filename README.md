@@ -17,7 +17,7 @@ I'm currently improving my JavaScript and problem-solving skills. I'm also activ
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 - HTML
 - CSS
