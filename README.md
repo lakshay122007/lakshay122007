@@ -35,7 +35,7 @@ I'm currently improving my JavaScript and problem-solving skills. I'm also activ
 
 - JavaScript (Advanced concepts)  
 - Data Structures & Algorithms  
-- React and other Frontend Technologies (Basics)
+- React and other Frontend Technologies
 
 ---
 
