@@ -12,8 +12,8 @@ I'm currently improving my JavaScript and problem-solving skills. I'm also activ
 <p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
-- Python (Proficient)  
-- JavaScript (Working knowledge)
+- Python  
+- JavaScript
 
 ### 🌐 Web Development  
 <p>
