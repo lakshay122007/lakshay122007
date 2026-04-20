@@ -21,7 +21,7 @@ I'm currently improving my JavaScript and problem-solving skills. I'm also activ
 </p>
 - HTML
 - CSS
-
+- React
 ### 🔧 Version Control  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
