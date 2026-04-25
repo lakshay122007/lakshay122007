@@ -68,7 +68,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/lakshay-goyal-53a97536b">
+  <a href="https://www.linkedin.com/in/lakshay-goyal-53a97536b">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:lakshay11goyal@gmail.com">
