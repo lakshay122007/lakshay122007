@@ -24,9 +24,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=lakshay122007&theme=monokai&hide_border=true&cache_seconds=86400" alt="lakshay122007's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=lakshay122007&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lakshay Goyal's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay122007&theme=monokai&radius=10" alt="lakshay122007's Activity Graph" />
 </p>
