@@ -17,18 +17,12 @@
 - Problem-Solving Skills
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/lakshay122007">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lakshay122007&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="lakshay122007's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=lakshay122007&theme=monokai&hide_border=true&cache_seconds=86400" alt="lakshay122007's GitHub Streak" width="49%" />
 </p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay122007&theme=monokai&radius=10" alt="lakshay122007's Activity Graph" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
