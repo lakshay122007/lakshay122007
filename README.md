@@ -16,9 +16,9 @@ B.Tech CS & AI student @ Newton School of Technology (batch of 2029 — yes, I h
 
 I build things for the web, break them, fix them, then push to GitHub and pretend it was intentional. Currently on a mission to go from "it works on my machine" to "it works everywhere."
 
-- 🔭 Building: dashboards, typing tools, and whatever else catches my eye at 2am
-- 🌱 Learning: React deep dives, TypeScript, DSA 
-- 🤝 Open source: 40+ PRs raised and counting.
+-  Building: dashboards, typing tools, and whatever else catches my eye at 2am
+-  Learning: React deep dives, TypeScript, DSA 
+-  Open source: 40+ PRs raised and counting.
 ---
 
 ## 🚀 Projects
