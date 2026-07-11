@@ -18,7 +18,7 @@ I build things for the web, break them, fix them, then push to GitHub and preten
 
 -  Building: dashboards, typing tools, and whatever else catches my eye at 2am
 -  Learning: React deep dives, TypeScript, DSA 
--  Open source: 60+ PRs raised and counting.
+-  Open source: 200+ PRs raised and counting.
 ---
 
 ## 🚀 Projects
